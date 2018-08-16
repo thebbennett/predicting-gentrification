@@ -1,0 +1,340 @@
+LDMK_NUM,LDMK_NAME,AKA_NAME,ORD_NUM,ORD_YEAR,ADDRESS_LINE1,ADDRESS_LINE2,SITUS_NUM,SITUS_DIR,SITUS_ST,SITUS_TYPE,HISTORIC_DIST,STATE_HIST_NUM,YEAR_BUILT,ARCH_BLDR,DOCUMENT,PHOTO_LINK,NOTES,GIS_NOTES,DESCRIPTION,ADDRESS_ID
+93.0,1437 High Street,Watson House,293,1976,1437 High Street,None,1437,None,High,ST,Wyman,5DV.5811,1894,None,None,yes,None,None,None,None
+94.0,Kerr House,None,360,1976,1900 E. 7th Avenue Parkway,None,1900,E,7th Avenue,PKY,East 7th Avenue,5DV.751,1925,None,None,yes, ,None,None,None
+95.0,Grant-Humphreys Mansion,None,476,1976,770 Pennsylvania Street,None,770,None,Pennsylvania,ST,East 7th Avenue,5DV.194,1902,None,None,yes, ,None,None,None
+99.0,Adolph Zang Mansion,None,253,1977,709 Clarkson Street,None,709,None,Clarkson,ST,East 7th Avenue,5DV.177,1902-04,None,None,yes, ,None,None,None
+103.0,Equitable Building,None,453,1977,730 17th Street,None,730,None,17th,ST,Downtown Denver,5DV.121,c. 1892-93,None,None,yes, ,None,None,None
+263.0,Hover/Bromley Building,None,271,1996,1348 Lawrence Street,1390 Lawrence Street,1348,None,Lawrence,ST,Downtown Denver,5DV.1719,1901,None,None,yes, ,None,None,None
+277.0,Benjamin Brown House,None,223,1997,410 Marion Street,None,410,None,Marion,ST,Driving Park,None,c.1889 (See Notes),None,None,yes,"Yr. Built - additions c.1900,1930,1960 ",None,None,None
+280.0,Kinneavy Terrace,None,430,1997,"2700-2714 Stout Street, 721-727 27th Street",None,2700,None,Stout,ST,Curtis Park 'E',None,c. 1888,None,None,yes, ,None,None,None
+127.0,Fleming House,None,371,1981,1133 Pennsylvania Street,None,1133,None,Pennsylvania,ST,Pennsylvania Street,5DV.661,1893,None,None,yes, ,None,None,None
+40.0,Hugh Mackay House,None,653,1973,3359 Alcott Street,None,3359,None,Alcott,ST,Potter Highlands,5DV.85.46,1893,None,None,yes, ,None,None,None
+148.0,McKibben Building,None,55,1983,1411 Larimer Street,1411 Larimer Street,1411,None,Larimer,ST,Larimer Square,5DV.104.3,c. 1890,None,None,yes, ,None,None,None
+253.0,Elitch Gardens Theatre,None,904,1995,West 38th Avenue,4550 W. 37th Place,4550,W,38th,AVE,Not in Historic District,5DV.143,1890,None,None,yes, ,None,None,None
+255.0,Sayre's Alhambra,None,966,1995,801 Logan Street,None,801,None,Logan,ST,Not in Historic District,5DV.741,1892,None,None,yes, ,None,None,None
+256.0,Crescent Hand Laundry Building,None,55,1996,2323-2327 W. 30th Avenue,None,2323,W,30th,AVE,Not in Historic District,5DV.358.58,1891-92,None,None,yes, ,None,None,None
+266.0,North High School,None,760,1996,2960 Speer Boulevard,None,2960,None,Speer,BV,Not in Historic District,5DV.89,1911 (See Notes),None,None,yes,"Yr. Built - additions1913,1960,1983,1993",None,None,None
+267.0,Margery Reed Mayo Nursery,None,761,1996,1128 28th Street,None,1128,None,28th,ST,Not in Historic District,5DV.5096,1926,None,None,yes, ,None,None,None
+270.0,Enos House,None,497,1996,841 Washington Street,None,841,None,Washington,ST,Not in Historic District,None,1891,None,None,yes, ,None,None,None
+271.0,William N. Byers Junior High School,None,971,1996,150 S. Pearl Street,None,150,S,Pearl ,ST,Not in Historic District,5DV.2099,1920-21,None,None,yes, ,None,None,None
+274.0,Huddart Terrace/Hoover Apartments,None,98,1997,625 E. 16th Avenue,None,625,E,16th,AVE,Not in Historic District,None,c. 1894,None,None,yes, ,None,None,None
+276.0,Shorter A.M.E. Church (Cleo Parker Robinson Dance),None,224,1997,119 Park Avenue West,None,119,None,Park Avenue ,None,Not in Historic District,5DV.5305,1925,None,None,yes, ,None,None,None
+281.0,Fifth Church of Christ Scientist,L2 Church,486,1997,1477 Columbine Street,None,1477,None,Columbine,ST,Not in Historic District,None,1929,None,None,yes, ,None,None,None
+286.0,Ross-Lewin Double,None,400,1998,1912-1918 Logan Street,None,1912,None,Logan,ST,Not in Historic District,5DV.2894,1891,None,None,yes, ,None,None,None
+287.0,Westside Courthouse,None,478,1998,924 W. Colfax Avenue,None,924,W,Colfax,AVE,Not in Historic District,5DV.7045,c. 1920,None,None,yes, ,None,None,None
+290.0,Haynes Townhouses,None,736,1998,1732 and 1738 Pearl Street,None,1726,None,Pearl,ST,Not in Historic District,5DV.2706,1893,None,None,yes, ,None,None,None
+29.0,Tears-McFarlane House,None,635,1972,1200 Williams Street,1290 Williams Street,1290,None,Williams,ST,Not in Historic District,5DV.180,1898,None,None,yes, ,None,None,None
+35.0,Sacred Heart Church,None,529,1973,2760 Larimer Street,2740-2760 Larimer Street,2760,None,Larimer,ST,Not in Historic District,5DV.5993,1879-80,None,None,yes, ,None,None,None
+36.0,Thomas Hornsby Ferril House,None,530,1973,2123 Downing Street,None,2123,None,Downing,ST,Not in Historic District,5DV.202.18,1889,None,None,yes, ,None,None,None
+41.0,Cox House,None,653,1973,3417 Lowell Boulevard,None,3417,None,Lowell,BV,Packard's Hill,5DV.620,c. 1908,None,None,yes, ,None,None,None
+44.0,John Brisben Walker House,None,653,1973,3520 Newton Street,None,3520,None,Newton,ST,Not in Historic District,5DV.630,c. 1884-85,None,None,yes, ,None,None,None
+45.0,Cheesman Memorial,None,654,1973,Cheesman Park,1000 High Street,1000,None,High,ST,Not in Historic District,5DV.5308,c. 1907,None,None,yes, ,None,None,None
+47.0,Boettcher Memorial Center,None,654,1973,1005 York Street,1019 York Street,1005,None,York,ST,Not in Historic District,None,1966,None,None,yes, ,None,None,None
+51.0,James A. Fleming House,None,654,1973,Platt Park,1501 S. Logan Street,1501,S,Logan,ST,Not in Historic District,5DV.8176,1882-83,None,None,yes, ,None,None,None
+53.0,Fire Station No. 1,None,58,1974,1326 Tremont Place,None,1326,None,Tremont,PL,Not in Historic District,5DV.152,1909,None,None,yes, ,None,None,None
+65.0,US Post Office and Federal Building,Byron White Federal Courthouse,506,1974,1823 Stout Street,None,1823,None,Stout,ST,Not in Historic District,5DV.201,1916,None,None,yes, ,None,None,None
+68.0,Voorhees House,None,736,1974,1471 Stuart Street,None,1471,None,Stuart,ST,Not in Historic District,5DV.656,1890,None,None,yes, ,None,None,None
+69.0,1435 Stuart Street,Smith House,736,1974,1435 Stuart Street,None,1435,None,Stuart,ST,Not in Historic District,5DV.654,1890,None,None,yes,None,None,None,None
+73.0,Bosworth House,None,843,1975,1400 Josephine Street,None,1400,None,Josephine,ST,Not in Historic District,None,c. 1889,None,None,yes, ,None,None,None
+77.0,Corona-Dora Moore School,Dora Moore School,72,1975,846 Corona Street,None,846,None,Corona,ST,Not in Historic District,5DV.185,1889,None,None,yes, ,None,None,None
+84.0,Creswell House,None,409,1975,1244 Grant Street,1244-1250 Grant Street,1244,None,Grant ,ST,Not in Historic District,5DV.184,1889,None,None,yes, ,None,None,None
+85.0,Daly House,None,410,1975,1034 Logan Street,None,1034,None,Logan,ST,Not in Historic District,None,1894-95,None,None,yes, ,None,None,None
+87.0,Gate Lodge at Fairmount Cemetery,None,4,1976,400 S. Quebec Street,None,400,S,Quebec,ST,Not in Historic District,5DV.733,1890,None,None,yes, ,None,None,None
+88.0,Ivy Chapel at Fairmount Cemetery,None,4,1976,400 S. Quebec Street,None,400,S,Quebec,ST,Not in Historic District,5DV.734,1890,None,None,yes, ,None,None,None
+90.0,1208 Logan Street,Baker-Plested House,124,1976,1208 Logan Street,None,1208,None,Logan,ST,Not in Historic District,None,1886,None,None,yes,None,None,None,None
+91.0,The Cornwall,None,174,1976,"1317 Ogden Street, 921 E. 13th Street, 1301 Ogden St.",None,1317,None,Ogden,ST,Not in Historic District,5DV.183,1901,None,None,yes, ,None,None,None
+96.0,3611-3615 Osage Street,Frank Damascio House,25,1977,3611-3615 Osage Street,None,3611,None,Osage,ST,Not in Historic District,5DV.358.86,c. 1895,None,None,yes, ,None,None,None
+100.0,Chapel of Our Merciful Savior (All Saints' Church),None,452,1977,2222 W. 32nd Avenue,None,2222,W,32nd,AVE,Not in Historic District,5DV.132,1890,None,None,yes, ,None,None,None
+101.0,Mount Carmel Church,None,452,1977,3549 Navajo Street,None,3549,None,Navajo,ST,Not in Historic District,5DV.358.107,1898-1904,None,None,yes, ,None,None,None
+102.0,St. Patrick Mission Church and Rectory,None,452,1977,3325 Pecos Street,None,3301,None,Pecos,ST,Not in Historic District,5DV.109,1907-10,None,None,yes, ,None,None,None
+106.0,1129 E. 17th Avenue,Rosenzweig House,550,1977,1129 E. 17th Avenue,None,1129,E,17th,AVE,Not in Historic District,5DV.343,c. 1882,None,None,yes,None,None,None,None
+108.0,1030 Logan Street,Stearns House,386,1978,1030 Logan Street,None,1030,None,Logan,ST,Not in Historic District,5DV.341,1896,None,None,yes, ,None,None,None
+283.0,Nagel House,None,98,1998,2335 Stout Street,None,2335,None,Stout,ST,Curtis Park 'H',None,c. 1888,None,None,yes, ,None,None,None
+284.0,Kaub House,None,97,1998,2343 Stout Street,None,2343,None,Stout,ST,Curtis Park 'H',5DV.103.13,c. 1886,None,None,yes, ,None,None,None
+196.0,Denver Municipal Auditorium,None,784,1991,920 14th Street,"908 14th Street, 1325 Champa Street",920,None,14th,ST,Downtown Denver,5DV.521,1907-08,None,None,yes, ,None,None,None
+1.0,Emmanuel-Shearith Israel Chapel,Emmanuel Episcopal Chapel,1,1968,1201 10th Street,955 Lawrence Way,1201,None,10th,ST,Not in Historic District,5DV.120,1876-77,None,None,yes, ,None,None,None
+4.0,St. John's Episcopal Cathedral,None,123,1968,None,1313 Clarkson Street,1313,None,Clarkson,ST,Not in Historic District,5DV.171,1911,None,None,yes, ,None,None,None
+5.0,Cathedral of the Immaculate Conception,None,124,1968,301 E. Colfax Avenue,401 E. Colfax Avenue,401,E,Colfax,AVE,Not in Historic District,5DV.111,1902-12,None,None,yes, ,None,None,None
+9.0,First Church of Christ Scientist,None,322,1968,None,1401 Logan Street,1401,None,Logan,ST,Not in Historic District,5DV.914,1901-06,None,None,yes, ,None,None,None
+11.0,Denver Women's Press Club,None,421,1968,1325 Logan Street,None,1325,None,Logan,ST,Not in Historic District,5DV.742,1910,None,None,yes, ,None,None,None
+12.0,Four Mile House,None,422,1968,715 S. Forest Street,None,715,S,Forest ,ST,Not in Historic District,5DV.7,1859,None,None,yes, ,None,None,None
+13.0,Zion Baptist Church of Denver,None,104,1969,933 E. 24th Avenue,None,933,E,24th,AVE,Not in Historic District,5DV.202.2,1892-93,None,None,yes, ,None,None,None
+14.0,St. Elizabeth's Church,None,105,1969,1060 11th Street,None,1060,None,11th,ST,Not in Historic District,5DV.128,1896-1902,None,None,yes, ,None,None,None
+16.0,Evans Memorial Chapel,None,107,1969,None,University of Denver campus,None,None,Denver Univ,None,Not in Historic District,5DV.174,1878,None,None,yes, ,None,None,None
+17.0,St. Mark's Church,None,50,1970,1160 Lincoln Street,None,1160,None,Lincoln,ST,Not in Historic District,5DV.170,1890,None,None,yes, ,None,None,None
+18.0,Scott Methodist Episcopal Church,Christ Methodist Episcopal Church,51,1970,2201 Ogden Street,999 E 22nd Avenue,2201,None,Ogden,ST,Not in Historic District,5DV.127,1889,None,None,yes, ,None,None,None
+213.0,Romeo Block,None,836,1993,2944-2958 Zuni Street,"2944 Zuni Street, 2324 W. 30th Avenue",2944,None,Zuni,ST,Not in Historic District,5DV.590,1889,None,None,yes, ,None,None,None
+215.0,Bluebird Theater,None,250,1994,3315-3317 E. Colfax Avenue,None,3315,E,Colfax,AVE,Not in Historic District,5DV.4519,1914,None,None,yes, ,None,None,None
+317.0,John Collins United Methodist Church,None,492,2006,2300 S. Bannock Street,2320 S. Bannock Street,2300,S,Bannock,ST,Not in Historic District,None,1900,None,None,yes, ,None,None,None
+320.0,Schulz-Neef House,None,623,2007,1739 E. 29th Avenue,None,1739,E,29th,AVE,Not in Historic District,None,"1881, addition c. 1900",None,None,yes, ,None,None,None
+322.0,Fitzroy Place,None,654,2007,2160 S. Cook Street,None,2160,S,COOK,ST,Not in Historic District,5DV.175,1891-92,None,None,None, ,None,None,None
+326.0,Amter Residence,None,333,2009,222 S. Fairfax Street,None,222,S,Fairfax,ST,Not in Historic District,None,1952-53,None,None,yes, ,None,None,None
+49.0,Red Rocks Theater,None,654,1973,Red Rocks Park,18300 W. Alameda Street,None,None,None,None,Not in Historic District,None,"1936-1941, addition 1959",None,None,yes, ,None,None,None
+332.0,Bonfils Memorial Theater/Lowenstein Theater,None,93,2012,1475 Elizabeth Street,2516-2526 E. Colfax Avenue,2526,E,Colfax,AVE,Not in Historic District,5DV.4045,None,None,None,yes,None,1475 Elizabeth is retired,None,None
+122.0,Henri Foster House,None,419,1980,2533 W. 32nd Avenue,None,2533,W,32nd,AVE,Potter Highlands,5DV.85.5,1874,None,None,yes, ,None,None,None
+123.0,Clements Rowhouse,None,617,1980,2201-2217 Glenarm Place,None,2201,None,Glenarm,PL,Clements,5DV.196,1883,None,None,yes, ,None,None,None
+116.0,1532 Emerson Street,"Adolph J. Zang House, Gargoyle House",261,1979,1532 Emerson Street,None,1532,None,Emerson,ST,Not in Historic District,5DV.130,1889,None,None,yes,None,None,None,None
+117.0,Guerrieri-DeCunto House,None,388,1979,1650 Pennsylvania Street,None,1650,None,Pennsylvania,ST,Not in Historic District,5DV.147,1896,None,None,yes, ,None,None,None
+119.0,Gebhard-Smith House,None,632,1979,2253 Downing Street,None,2229,None,Downing,ST,Not in Historic District,5DV.202.15,1884,None,None,yes, ,None,None,None
+129.0,Wheeler Block,None,597,1981,2134-2150 W. 29th Avenue,2150 W. 29th Avenue,2134,W,29th,AVE,Not in Historic District,5DV.358.101,1890-94,None,None,yes, ,None,None,None
+133.0,Wolcott School,None,27,1982,1410-1414 Marion Street,None,1410,None,Marion,ST,Not in Historic District,None,"1898, addition 1906",None,None,yes, ,None,None,None
+137.0,Denver Athletic Club Building,None,587,1982,1325 Glenarm Place,None,1325,None,Glenarm,PL,Not in Historic District,5DV.149,c. 1889 (See Notes),None,None,yes,"Yr. Built - additions 1892, 1925, 1965, 1973, 1984, 1996",None,None,None
+293.0,Steck Elementary School,None,389,1999,425 Ash Street,450 Albion Street,425,None,Ash,ST,Not in Historic District,5DV.2073,"1929-30, addn 1941, 1995",None,None,None, ,None,None,None
+295.0,Dugal Farmhouse,None,530,1999,4775 E. 6th Avenue,None,4775,E,6th,AVE,Not in Historic District,None,"1891, addn 1907, 1934",None,None,None, ,None,None,None
+296.0,Leeman Automotive Company Building,None,654,1999,550 Broadway,None,550,None,Broadway,ST,Not in Historic District,5DV.6140,1932,None,None,None, ,None,None,None
+118.0,William E. Moses House,None,631,1979,4001 W. 30th Avenue,None,4001,W,30th,AVE,Wolff Place,5DV.677,1895,None,None,None, ,None,None,None
+120.0,Henry Lee House,None,260,1980,2653 W. 32nd Avenue,None,2653,W,32nd,AVE,Potter Highlands,5DV.85.14,c. 1894-95,None,None,None, ,None,None,None
+210.0,Burlington Hotel,None,705,1993,"2201 Larimer Street, 1319 22nd Street","2201-17 Larimer Street, 1307-1319 22nd Street",1307,None,22nd,ST,Ballpark Neighborhood,5DV.3311,1890-91,None,None,None, ,None,None,None
+325.0,Petrikin Estate,None,418,2008,2109 E. 9th Avenue,None,2109,E,9th,AVE,Morgan's Subdivision,None,1917-18,None,None,None, ,None,None,None
+220.0,Chamberlin Observatory,None,598,1994,2930 E. Warren Avenue,None,2930,E,Warren,AVE,Not in Historic District,5DV.187,1888-90,None,None,None, ,None,None,None
+221.0,Graham-Bible House,None,676,1994,2080 York Street,2030 York Street,2080,None,York,ST,Not in Historic District,5DV.6041,1892-93,None,None,None, ,None,None,None
+222.0,Washington Park Bath House,None,677,1994,Washington Park,600 S. Marion Street,None,None,Washington P,None,Not in Historic District,5DV.5333,1911-12,None,None,None, ,None,None,None
+223.0,Nursery Building,None,678,1994,888 E. Iliff Avenue,None,888,E,Iliff ,AVE,Not in Historic District,5DV.5336,1923,None,None,None, ,None,None,None
+226.0,Park Hill Elementary School,None,836,1994,5050 E. 19th Avenue,None,5050,E,19th,AVE,Not in Historic District,5DV.2084,1901 (See Notes),None,None,None,"Yr. Built - additions1912,1928,1968-69",None,None,None
+229.0,Cory Elementary School,None,928,1994,1550 S. Steele Street,None,1550,S,Steele,ST,Not in Historic District,None,1951-52,None,None,None, ,None,None,None
+230.0,Merrill Middle School,None,929,1994,1551 S. Monroe Street,None,1551,S,Monroe ,ST,Not in Historic District,None,1953,None,None,None, ,None,None,None
+231.0,Washington Park Pavilion/Boat House,None,930,1994,Washington Park,691 S. Franklin Street,None,None,Washington P,None,Not in Historic District,5DV.5333,1913,None,None,None, ,None,None,None
+241.0,Steele Elementary School,None,180,1995,320 S. Marion Parkway,None,320,S,Marion,ST,Not in Historic District,5DV.2087,"1913, addn & altered 1929",None,None,None, ,None,None,None
+244.0,Fire Station Number 7,None,596,1995,3600 Tejon Street,None,3600,None,Tejon,ST,Not in Historic District,5DV.198,1909,None,None,None, ,None,None,None
+245.0,Our Lady of Guadalupe Church,None,597,1995,3559 Kalamath Street,3555 Kalamath Street,3559,None,Kalamath,ST,Not in Historic District,5DV.358.36,1947-48,None,None,None, ,None,None,None
+247.0,Horace Mann Middle School,None,709,1995,4130 Navajo Street,None,4130,None,Navajo,ST,Not in Historic District,5DV.2077,"1931, addn 1956, 1994",None,None,None, ,None,None,None
+248.0,Sherman School,Art Students League,753,1995,200 Grant Street,None,200,None,Grant ,ST,Not in Historic District,5DV.2086,"1893, addition 1920",None,None,None, ,None,None,None
+249.0,3147 Umatilla Street,Alexander Cowie House,900,1995,3147 Umatilla Street,None,3147,None,Umatilla,ST,Not in Historic District,5DV.358.36,1888,None,None,None, ,None,None,None
+131.0,Lowry Chapel No. 1,Eisenhower Chapel,26,1982,Lowry Air Force Base,293 Roslyn Street,293,None,Roslyn,ST,Not in Historic District,5DV.193,1941,None,None,None, ,None,None,None
+335.0,Gulliver-Lynch House,None,506,2014,227 S. Lincoln Street,None,227,S,Lincoln,ST,200 Block South Lincoln Street,None,None,None,None,None, ,None,None,None
+114.0,"Thomas M. Field House demolished, site still designated",None,79,1979,E. Iliff Avenue and S. Clarkson Street,None,None,None,None,None,Not in Historic District,None,1893,None,None,None,None,Do Not Count (Site Still Designated),None,None
+180.0,Park Hill Library,None,524,1989,4705 Montview Boulevard,None,2000,None,Dexter,ST,Not in Historic District,None,1920,None,None,None, ,None,None,None
+187.0,Annunciation Church,None,343,1990,3601 Humboldt Street,None,3601,None,Humboldt,ST,Not in Historic District,5DV.3287,1904-07,None,None,None, ,None,None,None
+189.0,Greeters of America National Home,None,404,1990,1740 and 1760 Ulster Street,1740-1762 Ulster Street,1740,None,Ulster ,ST,Not in Historic District,5DV.3401,c. 1899,None,None,None, ,None,None,None
+190.0,Moffat Station,None,405,1990,2101 15th Street,None,2101,None,15th,ST,Not in Historic District,5DV.195,1906,None,None,None, ,None,None,None
+191.0,"Field Officer's Quarters, Fort Logan",None,702,1990,3742 W. Princeton Circle,None,3742,W,Princeton,CIR,Not in Historic District,5DV.694.11,1889,None,None,None, ,None,None,None
+195.0,Stevens Elementary School,None,756,1991,1140 Columbine Street,None,1140,None,Columbine,ST,Not in Historic District,5DV.720,1900-01,None,None,None, ,None,None,None
+200.0,Smedley Elementary School,None,340,1992,4250 Shoshone Street,None,4250,None,Shoshone,ST,Not in Historic District,5DV.2072,"1902, addition 1911",None,None,None, ,None,None,None
+203.0,Ashley Elementary School,None,896,1992,1914 Syracuse Street,None,1914,None,Syracuse,ST,Not in Historic District,5DV.2068,"1930, addition 1951",None,None,None, ,None,None,None
+207.0,Cody House,None,445,1993,2932 Lafayette Street,None,2932,None,Lafayette,ST,Not in Historic District,5DV.7008,1892,None,None,None, ,None,None,None
+23.0,Pope-Thompson-Wasson House,None,166,1972,1320 Race Street,None,1320,None,Race,ST,Wyman,None,c. 1894,None,None,None, ,None,None,None
+334.0,Beth Eden Baptist Church,None,292,2014,3241 Lowell Boulevard,3257 Lowell Boulevard,3241,None,Lowell,BLVD,Not in Historic District,5DV.10643,"1931, addn 1940-42, 1951 ",None,None,None, ,None,None,None
+319.0,Kappler-Cannon-Fieger Home,None,65,2007,1904 Kearney Street,None,1904,N,Kearney,ST,Not in Historic District,None,1912,None,None,None, ,None,None,None
+333.0,Dr. Margaret Long House,None,183,2013,2070 Colorado Boulevard,None,2070,N,Colorado,BLVD,Not in Historic District,5DV.66,c. 1908,None,None,None, ,None,None,18343
+58.0,Taylor House,None,81,1974,945 Pennsylvania Street,945-949 Pennsylvania Street,945,None,Pennsylvania,ST,Quality Hill,5DV.5403,1900,None,None,None, ,None,None,None
+209.0,Whitehead/Peabody House,None,534,1993,1128 Grant Street,None,1128,None,Grant ,ST,Not in Historic District,5DV.6954,1889,None,None,None, ,None,None,None
+25.0,Pearce-McAllister Cottage,None,328,1972,1880 Gaylord Street,None,1880,None,Gaylord,ST,Not in Historic District,5DV.126,1899,None,None,None, ,None,None,None
+305.0,Norman Apartment Building,None,564,2002,99 S. Downing Street,None,99,S,Downing,ST,Not in Historic District,5DV.1707,1924,None,None,None, ,None,None,None
+306.0,Cameron Methodist Church,None,736,2003,1600 S. Pearl Street,None,1600,S,Pearl,ST,Not in Historic District,5DV.825,1909-13,None,None,None, ,None,None,None
+307.0,Neahr House,None,92,2004,1017 S. Race Street,None,1017,S,Race,ST,Not in Historic District,None,1894,None,None,None, ,None,None,None
+76.0,Adams-Fitzell House,None,72,1975,1359 Race Street,None,1359,None,Race,ST,Wyman,None,1891-92,None,None,None, ,None,None,None
+289.0,Highlands United Methodist Church,None,547,1998,3131 Osceola Street,None,3131,None,Osceola,ST,Wolff Place,5DV.632,"1922, addn1925-26,1950-51",None,None,None, ,None,None,None
+33.0,Croke-Patterson-Campbell House,Patterson Inn,457,1973,420-428 E. 11th Avenue,None,420,E,11th,AVE,Pennsylvania Street,5DV.172,c. 1890-92,None,None,None, ,None,None,None
+252.0,Conine-Horan House,None,903,1995,2839 Wyandot Street,None,2839,None,Wyandot,ST,Not in Historic District,5DV.358.88,1892,None,None,None, ,None,None,None
+254.0,1305 Elizabeth Street,Lorenzo Benson House,945,1995,1305 Elizabeth Street,None,1301,None,Elizabeth,ST,Not in Historic District,None,1893,None,None,None, ,None,None,None
+257.0,Elyria School,None,56,1996,4725 High Street,None,4725,None,High,ST,Not in Historic District,5DV.36,1924,None,None,None, ,None,None,None
+259.0,Cranmer House,None,197,1996,200 Cherry Street,None,200,None,Cherry ,ST,Not in Historic District,None,1916-17,None,None,None, ,None,None,None
+260.0,Fire Station No. 14,None,268,1996,1426 Oneida Street,None,1426,None,Oneida,ST,Not in Historic District,None,1937,None,None,None, ,None,None,None
+262.0,Fire Station No. 18,None,270,1996,2205 Colorado Boulevard,None,2205,None,Colorado,BLVD,Not in Historic District,5DV.5987,1912,None,None,None, ,None,None,None
+264.0,Berkeley School,None,573,1996,5025-5055 Lowell Boulevard,5025-5065 Lowell Boulevard,5025,None,Lowell,BV,Not in Historic District,5DV.4904,"1894 and 1906, addn 1923",None,None,None, ,None,None,None
+299.1,404-440 W. 12th Avenue,Ten-Winkel Towers,202,2000,404-440 W. 12th Avenue,404-410 W. 12th Avenue,404,W,12th,AVE,Not in Historic District,5DV.8359,None,None,None,None,None,None,None,None
+268.0,St. Dominic's Church,None,762,1996,3005 W. 29th Avenue,2905 Federal Boulevard,2905,None,Federal ,BV,Not in Historic District,5DV.606,1923-26,None,None,None, ,None,None,None
+269.0,Lake Middle School,None,498,1996,1820 Lowell Boulevard,None,1820,None,Lowell,BV,Not in Historic District,5DV.668,1926,None,None,None, ,None,None,None
+272.0,Edison School,None,986,1996,3350 Quitman Street,None,3350,None,Quitman,ST,Not in Historic District,5DV.635,"1925, addn 1950, 1993",None,None,None, ,None,None,None
+275.0,Milo Smith House,None,99,1997,1360 Birch Street,None,1360,None,Birch ,ST,Not in Historic District,5DV.5178,"1890, addn 1911, 1919.",None,None,None, ,None,None,None
+278.0,Cuthbert/Dines Mansion,None,343,1997,1350 Logan Street,None,1350,None,Logan,ST,Not in Historic District,5DV.743,1901,None,None,None, ,None,None,None
+279.0,Helene Apartments,None,344,1997,1062 Pearl Street,None,1062,None,Pearl,ST,Not in Historic District,5DV.5249,1904,None,None,None, ,None,None,None
+282.0,Arthur E. Pierce House,None,801,1997,24 E. Ellsworth Ave,None,24,E,Ellsworth ,AVE,Not in Historic District,None,1892,None,None,None, ,None,None,None
+288.0,Grant House,None,479,1998,100 S. Franklin Street,None,100,S,Franklin,ST,Not in Historic District,5DV.6960,1925,None,None,None, ,None,None,None
+42.0,Cox Gargoyle House,None,653,1973,3425 Lowell Boulevard,None,3425,None,Lowell,BV,Packard's Hill,5DV.621,c. 1892,None,None,None, ,None,None,None
+48.0,Eugene Field House,None,654,1973,Washington Park,701 S. Franklin Street,701,S,Franklin,ST,Not in Historic District,5DV.173,c. 1875,None,None,None, ,None,None,None
+81.0,Treat Hall,Centennial Hall,373,1975,Colorado Women's College,1800 Pontiac Street,1800,None,Pontiac,ST,Not in Historic District,5DV.159,1890-1909,None,None,None, ,None,None,None
+97.0,St. Thomas Episcopal Church,None,151,1977,2201 Dexter Street,None,2201,None,Dexter,ST,Not in Historic District,5DV.8350,1908,None,None,None, ,None,None,None
+98.0,Phipps House,Belcaro,208,1977,3400 Belcaro Drive,None,3400,None,Belcaro,DR,Not in Historic District,5DV.168,1932,None,None,None, ,None,None,None
+104.0,1375 Josephine Street,Gates House,492,1977,1375 Josephine Street,None,1375,None,Josephine,ST,Not in Historic District,5DV.5291,1892,None,None,None,None,None,None,None
+107.0,Walters-Brierly House,None,132,1978,2259 Gilpin Street,None,2259,None,Gilpin,ST,Not in Historic District,5DV.5401,1888,None,None,None, ,None,None,None
+112.0,2841 Perry Street,Woodbury House,769,1978,2841 Perry Street,None,2841,None,Perry,ST,Not in Historic District,5DV.2821,c. 1895,None,None,None, ,None,None,None
+211.0,Grant Middle School,None,775,1993,1751 S. Washington Street,None,1751,S,Washington,ST,Not in Historic District,None,1951-53,None,None,None, ,None,None,None
+212.0,Skinner Middle School,None,835,1993,3435 W. 40th Avenue,None,3435,W,40th,AVE,Not in Historic District,5DV.4031,1922,None,None,None, ,None,None,None
+318.0,Myrtle Hill School,Washington Park School,592,2006,1125 S. Race Street,None,1125,S,Race,ST,Not in Historic District,None,"1906, addn1922,1928,1980s",None,None,None, ,None,None,None
+321.0,Stanley School/Montclair School,Paddington Station Preschool,624,2007,1301 Quebec Street,None,1301,N,QUEBEC,ST,Not in Historic District,5DV.9942,"1890, addition 1991",None,None,None, ,None,None,None
+323.0,Hangar 61,None,724,2007,8800 E. 21st Avenue,8700 E. 21st Avenue,8700,E,21st,AVE,Not in Historic District,None,1959,None,None,None, ,None,None,None
+324.0,Epiphany Episcopal Church,None,138,2008,100 Colorado Boulevard,None,100,None,Colorado,BLVD,Not in Historic District,None,"1941, addition 1960",None,None,None, ,None,None,None
+330.0,Holland House,None,429,2010,2340 S. Josephine Street,None,2340,S,Josephine,ST,Not in Historic District,None,1932-33,None,None,None, ,None,None,None
+331.0,The Waldman,None,540,2011,1515 E. 9th Avenue,None,1515,E,9th,AVE,Not in Historic District,None,None,None,None,None, ,None,None,None
+113.0,2851 Perry Street,Lobach House,769,1978,2851 Perry Street,None,2851,None,Perry,ST,Not in Historic District,None,c. 1893,None,None,None, ,None,None,None
+121.0,Kistler-Rodriguez House,None,296,1980,700 E. 9th Avenue,None,700,E,9th,AVE,Not in Historic District,5DV.1497,1920,None,None,None, ,None,None,None
+125.0,Baerresen/Freeman House,None,121,1981,1718 Gaylord Street,None,1718,None,Gaylord,ST,Not in Historic District,None,1903-04,None,None,None, ,None,None,None
+297.0,Amos B. Hughes House,None,655,1999,3600 Clay Street,None,3600,None,Clay,ST,Potter Highlands,5DV.85.59,1913,None,None,None, ,None,None,None
+3.0,Cheesman-Boettcher (Governor's) Mansion,Governor's Mansion,3,1968,400 E. 8th Avenue,None,400,E,8th,AVE,East 7th Avenue,5DV.169,1908,None,None,None,None,None,None,None
+78.0,Coyle/Chase House,None,183,1975,532 W. 4th Avenue,None,532,W,4th,AVE,Not in Historic District,5DV.704,1891,None,None,None, ,None,None,None
+166.0,First and Broadway Building,None,289,1986,"101-115 Broadway, 15-27 W. 1st Avenue",None,101,None,Broadway,ST,Not in Historic District,5DV.53,1907,None,None,None, ,None,None,None
+302.0,1750 Gilpin Building,None,766,2000,1750 Gilpin Street,None,1750,None,Gilpin,ST,Not in Historic District,5DV.2251,1892-93,None,None,None, ,None,None,None
+291.0,7th Avenue Congregational United Church of Christ,None,813,1998,666 King Street,666-678 King Street,678,None,King ,ST,Not in Historic District,5DV.5278,1913,None,None,None, ,None,None,None
+298.0,Chapel and Gateway on the Bethesda Campus,None,268,2000,4400 E. Iliff Avenue,None,4400,E,Iliff ,AVE,Not in Historic District,None,1926 and 1930,None,None,None, ,None,None,None
+299.2,1173-1179 Delaware Street,Carpenter Gothic Houses ,202,2000,1173-1179 Delaware Street,None,1173,None,Delaware ,ST,Not in Historic District,None,None,None,None,None,None,None,None,None
+301.0,Aromor Apartment Building,None,402,2000,"225 E. 13th Avenue, 1309 Grant Street",None,225,E,13th,AVE,Not in Historic District,5DV.3269,1926-27,None,None,None, ,None,None,None
+173.0,Milheim House (relocated from 1355 Penn),None,532,1988,1355 Pennsylvania Street (original location),1515 Race Street (moved to this site in 1989),1515,None,Race,ST,Wyman,5DV.4898,1893,None,None,yes,At 1515 Race Street (moved to this site in 1989),None,None,None
+175.0,Paramount Theatre,None,616,1988,1621 Glenarm Place,1621-41 Glenarm Place,1621,None,Glenarm,PL,Downtown Denver,5DV.190,1930,None,None,yes, ,None,None,None
+178.0,Brown Palace Hotel,None,284,1989,321 17th Street,321-401 17th Street,321,None,17th,ST,Downtown Denver,5DV.110,1888-92,None,None,yes, ,None,None,None
+179.0,Boston Building,None,368,1989,828 17th Street,"822-830 17th Street, 1660-90 Champa Street",822,None,17th,ST,Downtown Denver,5DV.108,1890,None,None,yes, ,None,None,None
+184.0,Town Club/Crawford Hill House,None,676,1989,969 Sherman Street,150 E. 10th Avenue,969,None,Sherman,ST,Sherman-Grant,5DV.713,1906,None,None,yes, ,None,None,None
+185.0,Guaranty Bank Building,None,231,1990,815 17th Street,"801-17 17th Street, 1715-17 Stout Street",805,None,17th,ST,Downtown Denver,5DV.5300,1920-21,None,None,yes, ,None,None,None
+186.0,Ferguson - Gano House,None,260,1990,722 E. 7th Avenue,None,722,E,7th,AVE,East 7th Avenue,5DV.657,c. 1898,None,None,yes, ,None,None,None
+188.0,Porter House,None,375,1990,975 Grant Street,None,975,None,Grant ,ST,Sherman-Grant,5DV.946,c. 1912,None,None,yes, ,None,None,None
+194.0,Robinson House,None,670,1991,1225 Pennsylvania Street,None,1225,None,Pennsylvania,ST,Pennsylvania Street,5DV.4334,1906,None,None,yes, ,None,None,None
+199.0,Brown/Garrey/Congdon House,None,322,1992,1300 E. 7th Avenue,None,1300,E,7th,AVE,East 7th Avenue,None,c. 1923,None,None,yes, ,None,None,None
+201.0,Jane Silverstein Ries House,None,460,1992,737 Franklin Street,None,737,None,Franklin,ST,East 7th Avenue,None,1935,None,None,yes, ,None,None,None
+205.0,Huddart/Lydon House,None,15,1993,2418 Stout Street,None,2418,None,Stout,ST,Curtis Park 'A',5DV.103.15,1891,None,None,yes, ,None,None,None
+206.0,La Paz 10 Pool Hall / Douglas Undertaking Building,None,237,1993,2745 Welton Street,None,2745,None,Welton,ST,Five Points,5DV.751,"c. 1892, facade 1915",None,None,yes, ,None,None,None
+214.0,Denver Dry Goods Building,None,57,1994,700 16th Street,"700-14 16th St. 1545-85 California St., 703-49 15th St.",700,None,16th,ST,Downtown Denver,5DV.135,1888-89 (See Notes),None,None,yes,"Yr. Built - additions1898,1907,1994",None,None,None
+225.0,American National Bank Building,None,754,1994,818 17th Street,None,818,None,17th,ST,Downtown Denver,5DV.1727,1910,None,None,yes, ,None,None,None
+300.0,The Colonnade Building,None,378,2000,"1210 E. Colfax Avenue, 1464 Marion Street",None,1210,E,Colfax,AVE,Not in Historic District,5DV.2611,"1902, alteration 1984",None,None,yes, ,None,None,None
+304.0,Hamilton Apartment Building,None,313,2002,1475 Humboldt Street,None,1475,None,Humboldt,ST,Not in Historic District,5DV.2658,1908,None,None,yes, ,None,None,None
+311.0,Denver Union Station,None,705,2004,1701-1777 Wynkoop Street,None,1701,None,Wynkoop,ST,Not in Historic District,5DV.114,"1881, 1894 and 1914",None,None,yes, ,None,None,None
+314.0,Tammen Hall,None,399,2005,1010 E. 19th Avenue,None,1010,E,19th,AVE,Not in Historic District,5DV.166.2,1930-32,None,None,yes, ,None,None,None
+313.0,Doyle Benton House,None,292,2005,1301 Lafayette Street,None,1301,N,Lafayette,ST,Not in Historic District,5DV.9200,1896,None,None,None, ,None,None,None
+315.0,Catherine Mullen Nurses Home,None,27,2006,1895 Franklin Street,None,1895,N,Franklin,ST,Not in Historic District,None,1932-33,None,None,yes, ,None,None,None
+235.0,Fire Station No. 3,None,982,1994,2500 Washington Street,None,2500,None,Washington,ST,Five Points,5DV.9361,1931,None,None,yes, ,None,None,None
+238.0,Feldhauser (Baldwin) Building,Baldwin Building,85,1995,1617-1623 California Street,None,1617,None,California,ST,Downtown Denver,5DV.498,c. 1895,None,None,yes, ,None,None,None
+71.0,3205 W. 21st Avenue,Half-Moon House,689,1974,3205 W. 21st Avenue,None,3205,W,21st,AVE,Witter-Cofield,5DV.6140,c. 1888,None,None,yes,None,None,None,None
+70.0,Raymond House,Castle Marne,736,1974,1572 Race Street,None,1572,None,Race,ST,Wyman,5DV.123,1890,None,None,yes,None,None,None,None
+74.0,Malo House,None,72,1975,500 E. 8th Avenue,None,500,E,8th,AVE,East 7th Avenue,5DV.952,1921,None,None,yes, ,None,None,None
+75.0,John Porter House,None,72,1975,777 Pearl Street,None,777,None,Pearl,ST,East 7th Avenue,None,1923,None,None,yes, ,None,None,None
+79.0,1200 Pennsylvania Street,Dunning-Benedict House,244,1975,1200 Pennsylvania Street,None,1200,None,Pennsylvania,ST,Pennsylvania Street,5DV.803,1889,None,None,yes,None,None,None,None
+80.0,1207 Pennsylvania Street,"Keating House, Capitol Hill Mansion Bed & Breakfast",244,1975,1207 Pennsylvania Street,None,1207,None,Pennsylvania,ST,Pennsylvania Street,5DV.188,c. 1891-92,None,None,yes,None,None,None,None
+83.0,2143 Grove Street,Frederick W. Neef House,409,1975,2143 Grove Street,None,2143,None,Grove,ST,Witter-Cofield,5DV.107,1886,None,None,yes,None,None,None,None
+92.0,1410 High Street,"Sykes/Nicholson Mansion, House of a Thousand Candles",293,1976,1410 High Street,None,1410,None,High,ST,Wyman,5DV.752,1897,None,None,yes,None,None,None,None
+273.0,Ice House,Beatrice Cold Storage Warehouse,1089,1996,1801 Wynkoop Street,1801-1899 Wynkoop Street,1801,None,Wynkoop,ST,Not in Historic District,5DV.878,"1903, addn 1912,1916,1917",None,None,yes, ,None,None,None
+43.0,2501 High Street,"High House, Raughton House",653,1973,2501 High Street,None,2501,None,High,ST,Not in Historic District,5DV.6991,c. 1903-05,None,None,yes,None,None,None,None
+72.0,1389 Stuart Street,Bliss House,843,1975,1389 Stuart Street,None,1389,None,Stuart,ST,Not in Historic District,5DV.340,c. 1892,None,None,yes,None,None,None,None
+89.0,1444 Stuart Street,"Stuart Street House - A, Spangler House",59,1976,1444 Stuart Street,None,1444,None,Stuart,ST,Not in Historic District,5DV.655,1888-92,None,None,yes,None,None,None,None
+111.0,1390 Stuart Street,Kenehan House,729,1978,1390 Stuart Street,None,1390,None,Stuart,ST,Not in Historic District,5DV.653,c. 1892,None,None,yes, ,None,None,None
+15.0,South Broadway Christian Church,None,106,1969,23 Lincoln Street,23-25 Lincoln Street,23,None,Lincoln,ST,Not in Historic District,5DV.730,1891,None,None,yes, ,None,None,None
+124.0,Mattie Silks House,None,5,1981,2009 Market Street,None,2009,None,Market,ST,Not in Historic District,5DV.515,prior to 1876,None,None,yes, ,None,None,None
+217.0,Cato Residence (House with the Round Window),None,330,1994,3240 W. Hayward Place,None,3240,W,Hayward,PL,Not in Historic District,5DV.2788,1890,None,None,None, ,None,None,None
+237.0,Asbury Elementary School,None,14,1995,1320 E. Asbury Avenue,None,1320,E,Asbury,AVE,Not in Historic District,5DV.2095,1925-27,None,None,None, ,None,None,None
+176.0,Lawrence N. Greenleaf Masonic Temple,None,37,1989,400 Saint Paul Street,None,400,None,Saint Paul,ST,Not in Historic District,5DV.754,1891,None,None,None,Old Town of Harman Town Hall,None,None,None
+82.0,St. Luke's Episcopal Church,None,409,1975,1270 Poplar Street,None,1256,None,Poplar,ST,Not in Historic District,None,1890,None,None,None, ,None,None,None
+265.0,Bryant-Webster Elementary School,None,574,1996,3635 Quivas Street,None,3635,None,Quivas,ST,Not in Historic District,5DV.378,1930-31,None,None,None, ,None,None,None
+285.0,Lincoln Elementary School,None,399,1998,710 S. Pennsylvania Street,None,710,S,Pennsylvania,ST,Not in Historic District,5DV.2070,"1891, addn 1904,1929,1995",None,None,None, ,None,None,None
+19.0,St. Cajetan's Church,None,150,1970,None,1146 9th Street,1146,None,9th,ST,Not in Historic District,5DV.702,1926,None,None,None,None,"Lot 6, Block 65, West Denver Sub.",None,None
+163.0,Fire Station No. 15,None,759,1985,1080 Clayton Street,None,1080,None,Clayton,ST,Not in Historic District,5DV.5639,1903,None,None,None, ,None,None,None
+303.0,Evans School Building,None,1028,2001,1115 Acoma Street,None,1115,None,Acoma,ST,Not in Historic District,5DV.155,1904,None,None,yes, ,None,None,None
+155.0,Sarah Platt Decker Branch Library,None,501,1984,1501 S. Logan Street,None,1501,S,Logan ,ST,Not in Historic District,None,1912-13,None,None,yes, ,None,None,None
+182.0,Smiley Library,None,561,1989,4501 W. 46th Avenue,None,4501,W,46th,AVE,Not in Historic District,5DV.5307,1918,None,None,yes, ,None,None,None
+204.0,Ebert Elementary School,None,14,1993,410 Park Avenue West,None,410,None,Park Avenue ,None,Not in Historic District,5DV.2083,1924,None,None,yes, ,None,None,None
+338.0,Ghost/Rose House,None,395,2016,1899 York Street,None,1899,N,York,ST,Not in Historic District,5DV.2721,c. 1906,None,None,yes,None,Assessor record says Year Built 1913,None,None
+243.0,Tallmadge & Boyer Terrace and Commercial Block,None,511,1995,2925-2947 Wyandot Street,"2925-2959 Wyandot Street, 2308-12 W. 30th Avenue",2925,N,Wyandot,ST,Not in Historic District,None,1889,None,None,yes, ,None,None,None
+340.0,Wellshire Park Cottage,None,688,2018,2900 S. University Blvd.,None,2900,S,University,BLVD,Not in Historic District,None,c. 1925,None,None,None,None,Assessor record says Year Built 1922,None,None
+139.0,Curry-Chucovich House,None,654,1982,1439 Court Place,None,1439,None,Court,PL,Not in Historic District,5DV.146,1888,None,None,yes, ,None,None,None
+153.0,3209 W. Fairview Place,"Bosler House, Bosler-Yankee House",26,1984,3209 W. Fairview Place,None,3209,W,Fairview,PL,Not in Historic District,5DV.1477,c. 1875,None,None,yes,None,None,None,None
+154.0,Mayan Theatre,None,83,1984,110 Broadway,None,110,None,Broadway,ST,Not in Historic District,5DV.52,1930,None,None,yes, ,None,None,None
+34.0,Foster-McCauley-Symes-French Consulate,None,458,1973,738 Pearl Street,736 Pearl Street,736,None,Pearl,ST,East 7th Avenue,None,1905,None,None,yes, ,None,None,None
+146.0,Gallup-Stanbury Building,None,53,1983,1445-1451 Larimer Street,1445 Larimer Street,1445,None,Larimer,ST,Larimer Square,5DV.104.10,1873,None,None,yes,None,Lots 28-29 Blk 45,None,None
+61.0,McCrary Building,None,349,1974,1634-1638 Market Street,None,1634,None,Market,ST,Lower Downtown,None,c. 1884-89,None,None,yes, ,None,None,None
+56.0,950 Logan Street,McKinley Mansion,81,1974,950 Logan Street,948-952 Logan Street,950,None,Logan,ST,Quality Hill,None,c. 1890,None,None,yes,None,None,None,None
+86.0,930 Logan Street,McNeil House,591,1975,930 Logan Street,None,930,None,Logan,ST,Quality Hill,None,1890,None,None,yes,None,None,None,None
+135.0,Peter McCourt House,None,185,1982,1471 High Street,None,1471,None,High,ST,Wyman,5DV.1475,1896,None,None,yes, ,None,None,None
+28.0,Denver U.S. Mint,None,331,1972,320 W. Colfax Avenue,None,320,W,Colfax,AVE,Civic Center,5DV.164,"1904-06, addn",None,None,yes, ,None,None,None
+258.0,The Aldine,None,196,1996,1001-1021 E. 17th Avenue,None,1001,E,17th,AVE,Swallow Hill,5DV.660,1890,None,None,yes, ,None,None,None
+6.0,Evans House,Byers-Evans House,125,1968,1310 Bannock Street,None,1310,None,Bannock,ST,Civic Center,5DV.163,c. 1880,None,None,yes,None,None,None,None
+7.0,Trinty Methodist Church,None,126,1968,None,1820 Broadway,1820,None,Broadway,ST,Downtown Denver,5DV.115,1888,None,None,yes, ,None,None,None
+8.0,First Baptist Church,None,321,1968,None,230 E. 14th Avenue,1373,None,Grant ,ST,Civic Center,5DV.5990,1934-38,None,None,yes, ,None,None,None
+10.0,Daniels and Fisher Tower,None,420,1968,1101 16th Street,1601 Arapahoe Street,1101,None,16th,ST,Downtown Denver,5DV.118,1909-11,None,None,yes, ,None,None,None
+20.0,House of Lions ,Molly Brown House,113,1971,1340 Pennsylvania Street,None,1340,None,Pennsylvania,ST,Pennsylvania Street,5DV.178,1889,None,None,yes, ,None,None,None
+156.0,Emerson School Building,None,500,1984,1420 Ogden Street,None,1420,None,Ogden,ST,Not in Historic District,5DV.1495,1884-85,None,None,yes, ,None,None,None
+164.0,Hose Company No. 1,None,83,1986,1963 Chestnut Place,1999 Chestnut Place,1963,None,Chestnut,PL,Not in Historic District,5DV.1949,c. 1883,None,None,yes, ,None,None,None
+167.0,Denver Press Club,None,649,1986,1330 Glenarm Place,None,1330,None,Glenarm,PL,Not in Historic District,5DV.601,1925,None,None,yes, ,None,None,None
+168.0,Temple Emanuel,None,161,1987,1595 Pearl Street,None,1595,None,Pearl,ST,Not in Historic District,5DV.715,"1899, addition 1924",None,None,yes, ,None,None,None
+109.0,Wells Fargo Building,None,529,1978,1338 15th Street,None,1338,None,15th,ST,Lower Downtown,5DV.47.8,1874,None,None,yes, ,None,None,None
+110.0,Frank E. Edbrooke House,None,729,1978,931 E. 17th Avenue,None,931,E,17th,AVE,Swallow Hill,5DV.2730,c. 1889,None,None,yes, ,None,None,None
+261.0,Fire Station No. 11,None,269,1996,40 W. 2nd Avenue,None,40,W,2nd,AVE,Not in Historic District,5DV.9359,1936-37,None,None,yes, ,None,None,None
+292.0,Arcanum-Beldame Apartments,None,30,1999,1904 Logan Street,None,1904,None,Logan,ST,Not in Historic District,5DV.2578,1907,None,None,yes, ,None,None,None
+294.0,Epworth Church and Community Center,None,436,1999,1130 31st Street,None,1130,None,31st,ST,Not in Historic District,5DV.8177,1915,None,None,yes, ,None,None,None
+59.0,Hitchings Block,None,349,1974,1620 Market Street,None,1620,None,Market,ST,Lower Downtown,5DV.47.37,1892-93,None,None,yes, ,None,None,None
+60.0,Liebhart-Lindner Building,Liebhardt-Lindner Building,349,1974,1624 Market Street,1626-1628 Market Street,1624,None,Market,ST,Lower Downtown,5DV.47.7,1881,None,None,yes, ,None,None,None
+62.0,1642 Market Street,None,349,1974,1642 Market Street,None,1642,None,Market,ST,Lower Downtown,5DV.47.15,1885,None,None,yes,None,None,None,None
+63.0,1644-1650 Market Street,None,349,1974,1644-1650 Market Street,None,1644,None,Market,ST,Lower Downtown,None,1884-88,None,None,yes,None,None,None,None
+64.0,1322-1332 17th Street,Columbia Hotel,349,1974,1322-1332 17th Street,"1650-1660 Market Street, 1330-1380 17th Street",1322,None,17th,ST,Lower Downtown,5DV.47.38,1880,None,None,yes,None,None,None,None
+66.0,St. Elizabeth's Retreat Chapel,None,625,1974,2825 W. 32nd Avenue,2825-2845 W. 32nd Avenue,2825,W,32nd,AVE,Potter Highlands,5DV.129,c. 1897,None,None,yes, ,None,None,None
+115.0,John C. Mitchell House,"""Trail's End""",123,1979,680 Clarkson Street,670-680 Clarkson Street,670,None,Clarkson,ST,East 7th Avenue,None,1893,None,None,yes, ,None,None,None
+126.0,Butters House,None,372,1981,1129 Pennsylvania Street,None,1129,None,Pennsylvania,ST,Pennsylvania Street,5DV.664,1890-91,None,None,yes, ,None,None,None
+37.0,Asbury Methodist Church,None,653,1973,2205 W. 30th Avenue,None,2205,W,30th,AVE,Not in Historic District,5DV.358.106,c. 1891,None,None,yes, ,None,None,None
+39.0,Queree House,None,653,1973,2914 W. 29th Avenue,None,2914,W,29th,AVE,Not in Historic District,5DV.2748,1888,None,None,yes, ,None,None,None
+183.0,Woodbury Library,None,562,1989,3265 Federal Boulevard,None,3625,None,Federal ,BV,Not in Historic District,5DV.5320,1913,None,None,yes, ,None,None,None
+192.0,East High School,None,94,1991,1545 Detroit Street,1600 City Park Esplanade,1545,None,Detroit,ST,Not in Historic District,5DV.2091,1925,None,None,yes, ,None,None,None
+193.0,Cass House,None,359,1991,733 East 8th Avenue,None,733,E,8th,AVE,Not in Historic District,None,1899,None,None,yes, ,None,None,None
+197.0,South High School,None,785,1991,1700 E. Louisiana Avenue,None,1700,E,Louisiana ,AVE,Not in Historic District,5DV.2092,1925-26,None,None,yes, ,None,None,None
+198.0,20th Street Recreation Center,None,160,1992,1011 20th Street,None,1011,None,20th,ST,Not in Historic District,5DV.3353,1908,None,None,yes, ,None,None,None
+202.0,West High School,None,724,1992,951 Elati Street,None,951,None,Elati,ST,Not in Historic District,5DV.22,1924-26,None,None,yes, ,None,None,None
+208.0,McBird House,None,446,1993,2225 Downing Street,None,2225,None,Downing,ST,Not in Historic District,5DV.4854,c. 1880,None,None,yes, ,None,None,None
+21.0,Navarre Building,Bricker Collegiate Institute,470,1971,1727 Tremont Street,1725 Tremont Place,1725,None,Tremont,PL,Downtown Denver,5DV.124,1880,None,None,yes, ,None,None,None
+310.0,Wolf House,None,274,2004,2036 Ogden Street,None,2036,N,Ogden,ST,Not in Historic District,5DV.202.36,c. 1892,None,None,yes, ,None,None,None
+67.0,St. Andrew's Memorial Church,None,625,1974,2015 Glenarm Place,None,2015,None,Glenarm,PL,Clements,5DV.116,c. 1908-09,None,None,yes, ,None,None,None
+327.0,American Woodmen's Life Building,None,334,2009,2100 Downing Street,None,2100,N,Downing,ST,Not in Historic District,None,1949-50,None,None,yes, ,None,None,None
+32.0,Richthofen Castle,None,249,1973,7020 E. 12th Avenue,None,7020,E,12th,AVE,Montclair,5DV.158,1883-87,None,None,yes, ,None,None,None
+38.0,Hermann H. Heiser House,None,653,1973,3016 Osceola Street,None,3016,None,Osceola,ST,Wolff Place,5DV.631,c. 1892,None,None,yes, ,None,None,None
+46.0,Botanic Gardens House,None,654,1973,909 York Street,None,909,None,York,ST,Morgan's Subdivision,5DV.182,c. 1926,None,None,yes, ,None,None,None
+50.0,Montclair Community Center,The Molkery,654,1973,Montclair Park,6820 E. 12th Avenue,6820,E,12th,AVE,Montclair,5DV.709.7,1888,None,None,yes, ,None,None,None
+52.0,Dennis Sheedy House,None,31,1974,1115 Grant Street,None,1115,None,Grant ,ST,Sherman-Grant,5DV.740,1892,None,None,yes, ,None,None,None
+54.0,Hallett House,None,81,1974,900 Logan Street,None,900,None,Logan,ST,Quality Hill,None,1888-92,None,None,yes, ,None,None,None
+55.0,940 Logan Street,Campbell House,81,1974,940 Logan Street,None,940,None,Logan,ST,Quality Hill,5DV.172,c. 1890,None,None,yes,None,None,None,None
+57.0,Lipe House,"Clemes-Lipe House, Winter-Lipe House",81,1974,901 Pennsylvania Street,"901 Pennsylvania Street, 475 E. 9th Avenue",901,None,Pennsylvania,ST,Quality Hill,None,c. 1895-1901,None,None,yes,None,None,None,None
+22.0,Smith House,Eben Smith House,471,1971,1801 York Street,None,1801,None,York,ST,Not in Historic District,5DV.907,1902-05,None,None,yes, ,None,None,None
+24.0,Denver Tramway Power Plant,REI,212,1972,None,1416 Platte Street,1416,None,Platte,ST,Not in Historic District,5DV.541,1901,None,None,yes,None,None,None,None
+26.0,Tivoli Brewery and West Denver Turnhalle Opera House,None,329,1972,1320-1348 10th Street,900 Auraria Parkway,1318,None,10th,ST,Not in Historic District,5DV.119,oldest part brewery 1881,None,None,yes,None,None,None,None
+27.0,Buckhorn Exchange,None,330,1972,1000 Osage Street,None,1000,None,Osage,ST,Not in Historic District,5DV.700,1886,None,None,yes, ,None,None,None
+138.0,Barney Ford Building,None,635,1982,1514 Blake Street,None,1514,None,Blake,ST,Lower Downtown,5DV.47.66,"1863, addn 1875, 1889",None,None,yes, ,None,None,None
+140.0,Kettle Building,None,47,1983,1422 Larimer Street,None,1422,None,Larimer,ST,Larimer Square,5DV.104.13,1873,None,None,yes,None,S 18' Lot 10 Blk 70 B,None,None
+141.0,Congdon Building,Apollo Hall,48,1983,1421-1425 Larimer Street,1419-27 Larimer Street,1421,None,Larimer,ST,Larimer Square,5DV.104.5,1870s,None,None,yes,None,Lots 22-23 & N 5' Lot 21& S 3' Lot 24 Blk 45,None,None
+142.0,Barnum Building,None,49,1983,1412 Larimer Street,1408 Larimer Street,1412,None,Larimer,ST,Larimer Square,5DV.104.11,1889,None,None,yes,None,Lot 13 Blk 70,None,None
+143.0,Sussex Building,None,50,1983,1430 Larimer Street,1426-30 Larimer Street,1430,None,Larimer,ST,Larimer Square,5DV.104.14,1880,None,None,yes,None,Lots 8-9 & N 7' Lot 10 Blk 70,None,None
+144.0,Granite Building,None,51,1983,"1460 Larimer Street, 1224-30 15th Street","1454-60 Larimer Street, 1226-28 15th Street",1460,None,Larimer,ST,Larimer Square,5DV.10401,1882,None,None,yes, ,None,None,None
+145.0,Crawford Building,None,52,1983,1437-1439 Larimer Street,1439 Larimer Street,1437,None,Larimer,ST,Larimer Square,5DV.104.8,1875,None,None,yes,None,Lot 26 Blk 45,None,None
+147.0,Lincoln Hall Building,None,54,1983,1415 Larimer Street,1413-17 Larimer Street,1415,None,Larimer,ST,Larimer Square,5DV.104.4,early 1880s,None,None,yes,None,Lot 20 & SW 20' Lot 21 blk 45,None,None
+149.0,Miller Building,None,56,1983,1401-1407 Larimer Street,None,1401,None,Larimer,ST,Larimer Square,5DV.104.2,1889,None,None,yes,None,Front 75' Lots 17-18 blk 45,None,None
+150.0,1738 Wynkoop Street,"Edward W. Wynkoop Bldg, Spice & Commission Warehouse",437,1983,1738 Wynkoop Street,None,1738,None,Wynkoop,ST,Lower Downtown,5DV.47.6,1900-01,None,None,yes,None,None,None,None
+151.0,Insurance Exchange Building,Denver Gas & Electric Building,548,1983,910 15th Street,None,910,None,15th,ST,Downtown Denver,5DV.137,1908-10,None,None,yes, ,None,None,None
+152.0,Oxford Hotel and Office Annex,None,571,1983,"1600 17th Street, 1645 Wazee Street, 1624-28 17th St.","1600 17th St, 1612-16 17th St., 1659 Wazee St.",1659,None,Wazee,ST,Lower Downtown,5DV.47.62,"1891, 1902addn, 1912annex",None,None,yes, ,None,None,None
+157.0,2900 Champa Street,Louis Anfenger Mansion,597,1984,2900 Champa Street,None,2900,None,Champa,ST,Curtis Park G,None,1884,None,None,yes,None,None,None,None
+159.0,Wood-Morris-Bonfils House,None,318,1985,707 Washington Street,None,707,None,Washington,ST,East 7th Avenue,5DV.179,"1911, addition 1987",None,None,yes, ,None,None,None
+160.0,Hotel Hope Building,None,406,1985,1404 Larimer Street,1400-04 Larimer Street,1400,None,Larimer,ST,Larimer Square,5DV.2014,"c. 1888, addition 1993 ",None,None,yes,None,Lots 15-16 Blk 70,None,None
+161.0,Barth Hotel,None,502,1985,1514 17th Street,1510-16 17th Street,1514,None,17th,ST,Lower Downtown,5DV.47.64,1882,None,None,yes, ,None,None,None
+309.0,Church of the Ascension,None,244,2004,600 Gilpin Street,None,600,N,Gillpin,ST,East 7th Avenue,5DV.8323,"1909, addn 1913,1918,1959",None,None,yes, ,None,None,None
+316.0,Baur Confectionary Company,None,460,2006,1512-1514 Curtis Street,None,1512,None,Curtis,ST,Downtown Denver,None,1881,None,None,yes, ,None,None,None
+328.0,Governor Carr Residence,None,554,2009,747 Downing Street,None,747,None,Downing,ST,East 7th Avenue,None,1905,None,None,yes, ,None,None,None
+329.0,2500 Walnut Street,Benjamin Moore Building,1,2010,2500 Walnut Street,None,2500,None,Walnut,ST,Ballpark Neighborhood,None,"1923, addn through 1947",None,None,yes,None,None,None,None
+162.0,Windsor Stables Storefront Building,None,554,1985,1732-1770 Blake Street,1738-1770 Blake Street,1732,None,Blake,ST,Lower Downtown,5DV.47.17,1881-86,None,None,yes, ,None,None,None
+165.0,Sweet-Miller House,None,84,1986,1075 Humboldt Street,None,1075,None,Humboldt,ST,Humboldt Street,5DV.166.4,1906,None,None,yes, ,None,None,None
+218.0,Morey Middle School,None,464,1994,840 E. 14th Avenue,None,840,E,14th,AVE,Not in Historic District,5DV.2090,1921,None,None,yes, ,None,None,None
+219.0,"Denver Public Schools Administrative Building, Annex II",None,438,1994,414 14th Street,None,414,None,14th,ST,Not in Historic District,5DV.1723,1923,None,None,yes,Annex II,None,None,None
+224.0,Golda Meir House,None,737,1994,1146 9th Street,None,1146,None,9th,ST,Not in Historic District,5DV.328,1911,None,None,yes,House was moved from 1606-08 Julian Street.,None,None,None
+227.0,Ogden Theater,None,837,1994,935 E. Colfax Avenue,None,935,E,Colfax,AVE,Not in Historic District,5DV.2609,1917,None,None,yes, ,None,None,None
+228.0,Joshel House,None,891,1994,220 S. Dahlia Street,None,220,S,Dahlia ,ST,Not in Historic District,5DV.4787,1950-51,None,None,yes, ,None,None,None
+234.0,Nathan Savage Candy Company Building,None,981,1994,2162 Lawrence Street,None,2162,None,Lawrence,ST,Not in Historic District,5DV.3304,c. 1908,None,None,yes, ,None,None,None
+236.0,"Clarence F. Holmes, Jr., House",None,983,1994,2330 Downing Street,None,2330,None,Downing,ST,Not in Historic District,5DV.6969,1892-93,None,None,yes, ,None,None,None
+239.0,Austin Building,None,86,1995,2400-2418 E. Colfax Avenue,"2400-2418 E. Colfax Avenue, 1472 Josephine Street",2400,E,Colfax,AVE,Not in Historic District,5DV.4688,1904,None,None,yes, ,None,None,None
+240.0,"Rocky Mtn. Consistory, Scottish Rite Temple (Cathedral)",El Jebel Temple,137,1995,1770 Sherman Street,None,1770,None,Sherman,ST,Not in Historic District,5DV.2892,1906,None,None,yes,Scottish Rite Temple (Cathedral),None,None,None
+242.0,Fager Residence,None,510,1995,2947 Umatilla Street,None,2947,None,Umatilla,ST,Not in Historic District,5DV.3921,c. 1883-85,None,None,yes, ,None,None,None
+246.0,German House/Denver Turnverein,None,700,1995,1570 Clarkson Street,None,1570,None,Clarkson,ST,Not in Historic District,5DV.39,1921,None,None,yes, ,None,None,None
+128.0,Flower/Vaile House,None,536,1981,1610 Emerson Street,None,1610,None,Emerson,ST,Swallow Hill,5DV.659,1889-90,None,None,yes, ,None,None,None
+250.0,3225 Quivas Street,Edward L. Fox House,901,1995,3225 Quivas Street,None,3225,None,Quivas,ST,Not in Historic District,None,1888,None,None,yes, ,None,None,None
+132.0,Sheridan/Hendrie & Bolthoff Building,None,28,1982,1635 17th Street,None,1635,None,17th,ST,Lower Downtown,5DV.882,c. 1892,None,None,yes, ,None,None,None
+251.0,1940-1946 W. 33rd Avenue,Cole-DeRose Apartment House,902,1995,1940-1946 W. 33rd Avenue,"1940-1946 W. 33rd Avenue, 3252-3260 Tejon Street",1940,W,33rd,AVE,Not in Historic District,5DV.358.64,1895,None,None,yes,Amended by Ordinance 613 of 2017,None,None,None
+134.0,Delos Allen Chappell House,None,116,1982,1555 Race Street,None,1555,None,Race,ST,Wyman,5DV.320,1895,None,None,yes, ,None,None,None
+136.0,Masonic Temple Building,None,195,1982,1614 Welton Street,"1614 Welton Street, 535 16th Street",1614,None,Welton,ST,Downtown Denver,5DV.136,1889-90,None,None,yes, ,None,None,None
+2.0,"Constitution Hall (demolished, site still designated)",None,2,1968,1501-1507 Blake Street,None,1501,None,Blake,ST,Lower Downtown,5DV.467 De-listed,1865 (demo'd about 1980) ,None,None,yes,None,None,None,None
+336.0,Stadium Arena,None,215,2016,4655 Humboldt Street,1301-1325 E. 46th Avenue ,4655,N,Humboldt,ST,Not in Historic District,5DV.3815,"1908-09, addn 1973, 1991",None,None,yes, ,None,None,None
+216.0,Denver Tramway Company Building,None,329,1994,1100 14th Street,None,1100,None,14th,ST,Downtown Denver,"5DV.140, 1893",c. 1910,None,None,yes, ,None,None,None
+105.0,Colorado Federal Building,Ideal Building,550,1977,821 17th Street,None,821,None,17th,ST,Downtown Denver,5DV.125,"1907, addition 1927",None,None,yes,None,None,None,None
+171.0,Neusteter Building,None,701,1987,720 16th Street,716-750 16th Street,720,None,16th,ST,Downtown Denver,5DV.496,"c. 1889, 1924, addn 1950",None,None,yes, ,None,None,None
+31.0,Tramway Cable Building,None,646,1972,1801 Lawrence Street,None,1801,None,Lawrence,ST,Not in Historic District,5DV.117,1889,None,None,yes, ,None,None,None
+130.0,Cerrones Grocery Store,None,698,1981,3617 Osage Street,3617-3621 Osage Street,3617,None,Osage,ST,Not in Historic District,5DV.358.11,1893,None,None,yes, ,None,None,None
+30.0,Odd Fellows Hall,None,645,1972,1545 Champa Street,None,1543,None,Champa,ST,Downtown Denver,5DV.491,1887-89,None,None,yes, ,None,None,None
+337.0,Emily Griffith Opportunity School,None,311,2016,"1250 Welton Street, 1261 Glenarm Place","1250 Welton Street, 1221-1261 Glenarm Place",1250,None,Welton,ST,Not in Historic District,5DV.1819 and 5DV.1825,"School:1926,addn1947,1956",None,None,yes,"Yr. Built - Shop buildings: 1941, 1951, 1954, 1956, 1978. ",*Designated Area - Add notes for Contributing Area,None,None
+339.0,First Unitarian Society of Denver Church,None,566,2016,1400 Lafayette Street,None,1400,N,Lafayette,ST,Not in Historic District,None,"1893, addition 1899",None,None,yes,None,Assessor record says Year Built 1901,None,None
+312.0,Fairmount Mausoleum,None,64,2005,430 Quebec Street,430 S. Quebec Street,430,S,Quebec,ST,Not in Historic District,None,c. 1930 (See Notes),None,None,yes,"Yr. Built - additions 1936, 1948, 1947, 1957, 1971, 2003",None,None,None
+169.0,Brind Mansion,None,257,1987,1000 Logan Street,None,1000,None,Logan,ST,Not in Historic District,None,1910,None,None,yes, ,None,None,None
+170.0,Hanigan-Canino Terrace,None,264,1987,3500 Navajo Street,"3500 Navajo Street, 1423-37 W. 35th Avenue",3500,None,Navajo,ST,Not in Historic District,5DV.2682,1890,None,None,yes, ,None,None,None
+172.0,Wyatt School,Hyde Park School,56,1988,3620 Franklin Street,None,3620,None,Franklin,ST,Not in Historic District,5DV.2066,1887,None,None,yes, ,None,None,None
+177.0,Scottish Rite Masonic Temple,None,162,1989,1370 Grant Street,"1364-70 Grant Street, 340 E. 14th Avenue",1370,None,Grant ,ST,Not in Historic District,5DV.4341,1923-25,None,None,yes, ,None,None,None
+181.0,Byers Library,None,525,1989,675 Santa Fe Drive,None,675,None,Santa Fe,DR,Not in Historic District,5DV.1660,1918,None,None,yes, ,None,None,None
+233.0,Warming House at Evegreen Lake,None,932,1994,"Dedisse Park, Evergreen",None,None,None,None,None,Not in Historic District,None,1934,None,None,yes, ,None,None,None
+308.0,Globeville School,None,184,2004,5100 Lincoln Street,None,5100,N,Lincoln,ST,Not in Historic District,5DV.793,"1925, addn 1953,1958,1970",None,None,None, ,None,None,None
+232.0,Pueblo Trading Post,Red Rocks Trading Post,931,1994,Red Rocks Park,18300 W. Alameda Street,None,None,None,None,Not in Historic District,None,1931,None,None,None, ,None,None,None

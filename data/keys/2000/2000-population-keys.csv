@@ -1,0 +1,219 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC02_VC01,Number - Both sexes; Population 16 years and over
+HC03_VC01,Number - Male; Population 16 years and over
+HC04_VC01,Number - Female; Population 16 years and over
+HC06_VC01,Percent - Both sexes; Population 16 years and over
+HC07_VC01,Percent - Male; Population 16 years and over
+HC08_VC01,Percent - Female; Population 16 years and over
+HC02_VC02,Number - Both sexes; Population 16 years and over - In labor force
+HC03_VC02,Number - Male; Population 16 years and over - In labor force
+HC04_VC02,Number - Female; Population 16 years and over - In labor force
+HC06_VC02,Percent - Both sexes; Population 16 years and over - In labor force
+HC07_VC02,Percent - Male; Population 16 years and over - In labor force
+HC08_VC02,Percent - Female; Population 16 years and over - In labor force
+HC02_VC03,Number - Both sexes; Population 16 years and over - In labor force - Armed forces
+HC03_VC03,Number - Male; Population 16 years and over - In labor force - Armed forces
+HC04_VC03,Number - Female; Population 16 years and over - In labor force - Armed forces
+HC06_VC03,Percent - Both sexes; Population 16 years and over - In labor force - Armed forces
+HC07_VC03,Percent - Male; Population 16 years and over - In labor force - Armed forces
+HC08_VC03,Percent - Female; Population 16 years and over - In labor force - Armed forces
+HC02_VC04,Number - Both sexes; Population 16 years and over - In labor force - Civilian labor force
+HC03_VC04,Number - Male; Population 16 years and over - In labor force - Civilian labor force
+HC04_VC04,Number - Female; Population 16 years and over - In labor force - Civilian labor force
+HC06_VC04,Percent - Both sexes; Population 16 years and over - In labor force - Civilian labor force
+HC07_VC04,Percent - Male; Population 16 years and over - In labor force - Civilian labor force
+HC08_VC04,Percent - Female; Population 16 years and over - In labor force - Civilian labor force
+HC02_VC05,Number - Both sexes; Population 16 years and over - In labor force - Civilian labor force - Employed
+HC03_VC05,Number - Male; Population 16 years and over - In labor force - Civilian labor force - Employed
+HC04_VC05,Number - Female; Population 16 years and over - In labor force - Civilian labor force - Employed
+HC06_VC05,Percent - Both sexes; Population 16 years and over - In labor force - Civilian labor force - Employed
+HC07_VC05,Percent - Male; Population 16 years and over - In labor force - Civilian labor force - Employed
+HC08_VC05,Percent - Female; Population 16 years and over - In labor force - Civilian labor force - Employed
+HC02_VC06,Number - Both sexes; Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC03_VC06,Number - Male; Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC04_VC06,Number - Female; Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC06_VC06,Percent - Both sexes; Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC07_VC06,Percent - Male; Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC08_VC06,Percent - Female; Population 16 years and over - In labor force - Civilian labor force - Unemployed
+HC02_VC07,Number - Both sexes; Population 16 years and over - In labor force - Civilian labor force - Unemployed - Percent of civilian labor force
+HC03_VC07,Number - Male; Population 16 years and over - In labor force - Civilian labor force - Unemployed - Percent of civilian labor force
+HC04_VC07,Number - Female; Population 16 years and over - In labor force - Civilian labor force - Unemployed - Percent of civilian labor force
+HC06_VC07,Percent - Both sexes; Population 16 years and over - In labor force - Civilian labor force - Unemployed - Percent of civilian labor force
+HC07_VC07,Percent - Male; Population 16 years and over - In labor force - Civilian labor force - Unemployed - Percent of civilian labor force
+HC08_VC07,Percent - Female; Population 16 years and over - In labor force - Civilian labor force - Unemployed - Percent of civilian labor force
+HC02_VC08,Number - Both sexes; Population 16 years and over - Not in labor force
+HC03_VC08,Number - Male; Population 16 years and over - Not in labor force
+HC04_VC08,Number - Female; Population 16 years and over - Not in labor force
+HC06_VC08,Percent - Both sexes; Population 16 years and over - Not in labor force
+HC07_VC08,Percent - Male; Population 16 years and over - Not in labor force
+HC08_VC08,Percent - Female; Population 16 years and over - Not in labor force
+HC02_VC09,Number - Both sexes; Population 16 years and over - Population 16 to 19 years
+HC03_VC09,Number - Male; Population 16 years and over - Population 16 to 19 years
+HC04_VC09,Number - Female; Population 16 years and over - Population 16 to 19 years
+HC06_VC09,Percent - Both sexes; Population 16 years and over - Population 16 to 19 years
+HC07_VC09,Percent - Male; Population 16 years and over - Population 16 to 19 years
+HC08_VC09,Percent - Female; Population 16 years and over - Population 16 to 19 years
+HC02_VC10,Number - Both sexes; Population 16 years and over - Population 16 to 19 years - Employed civilian
+HC03_VC10,Number - Male; Population 16 years and over - Population 16 to 19 years - Employed civilian
+HC04_VC10,Number - Female; Population 16 years and over - Population 16 to 19 years - Employed civilian
+HC06_VC10,Percent - Both sexes; Population 16 years and over - Population 16 to 19 years - Employed civilian
+HC07_VC10,Percent - Male; Population 16 years and over - Population 16 to 19 years - Employed civilian
+HC08_VC10,Percent - Female; Population 16 years and over - Population 16 to 19 years - Employed civilian
+HC02_VC11,Number - Both sexes; Population 16 years and over - Population 16 to 19 years - Unemployed
+HC03_VC11,Number - Male; Population 16 years and over - Population 16 to 19 years - Unemployed
+HC04_VC11,Number - Female; Population 16 years and over - Population 16 to 19 years - Unemployed
+HC06_VC11,Percent - Both sexes; Population 16 years and over - Population 16 to 19 years - Unemployed
+HC07_VC11,Percent - Male; Population 16 years and over - Population 16 to 19 years - Unemployed
+HC08_VC11,Percent - Female; Population 16 years and over - Population 16 to 19 years - Unemployed
+HC02_VC12,Number - Both sexes; Population 16 years and over - Population 16 to 19 years - Not in labor force
+HC03_VC12,Number - Male; Population 16 years and over - Population 16 to 19 years - Not in labor force
+HC04_VC12,Number - Female; Population 16 years and over - Population 16 to 19 years - Not in labor force
+HC06_VC12,Percent - Both sexes; Population 16 years and over - Population 16 to 19 years - Not in labor force
+HC07_VC12,Percent - Male; Population 16 years and over - Population 16 to 19 years - Not in labor force
+HC08_VC12,Percent - Female; Population 16 years and over - Population 16 to 19 years - Not in labor force
+HC02_VC13,Number - Both sexes; Population 16 years and over - Population 20 to 24 years
+HC03_VC13,Number - Male; Population 16 years and over - Population 20 to 24 years
+HC04_VC13,Number - Female; Population 16 years and over - Population 20 to 24 years
+HC06_VC13,Percent - Both sexes; Population 16 years and over - Population 20 to 24 years
+HC07_VC13,Percent - Male; Population 16 years and over - Population 20 to 24 years
+HC08_VC13,Percent - Female; Population 16 years and over - Population 20 to 24 years
+HC02_VC14,Number - Both sexes; Population 16 years and over - Population 20 to 24 years - Employed civilian
+HC03_VC14,Number - Male; Population 16 years and over - Population 20 to 24 years - Employed civilian
+HC04_VC14,Number - Female; Population 16 years and over - Population 20 to 24 years - Employed civilian
+HC06_VC14,Percent - Both sexes; Population 16 years and over - Population 20 to 24 years - Employed civilian
+HC07_VC14,Percent - Male; Population 16 years and over - Population 20 to 24 years - Employed civilian
+HC08_VC14,Percent - Female; Population 16 years and over - Population 20 to 24 years - Employed civilian
+HC02_VC15,Number - Both sexes; Population 16 years and over - Population 20 to 24 years - Unemployed
+HC03_VC15,Number - Male; Population 16 years and over - Population 20 to 24 years - Unemployed
+HC04_VC15,Number - Female; Population 16 years and over - Population 20 to 24 years - Unemployed
+HC06_VC15,Percent - Both sexes; Population 16 years and over - Population 20 to 24 years - Unemployed
+HC07_VC15,Percent - Male; Population 16 years and over - Population 20 to 24 years - Unemployed
+HC08_VC15,Percent - Female; Population 16 years and over - Population 20 to 24 years - Unemployed
+HC02_VC16,Number - Both sexes; Population 16 years and over - Population 20 to 24 years - Not in labor force
+HC03_VC16,Number - Male; Population 16 years and over - Population 20 to 24 years - Not in labor force
+HC04_VC16,Number - Female; Population 16 years and over - Population 20 to 24 years - Not in labor force
+HC06_VC16,Percent - Both sexes; Population 16 years and over - Population 20 to 24 years - Not in labor force
+HC07_VC16,Percent - Male; Population 16 years and over - Population 20 to 24 years - Not in labor force
+HC08_VC16,Percent - Female; Population 16 years and over - Population 20 to 24 years - Not in labor force
+HC02_VC17,Number - Both sexes; Population 16 years and over - Population 25 to 54 years
+HC03_VC17,Number - Male; Population 16 years and over - Population 25 to 54 years
+HC04_VC17,Number - Female; Population 16 years and over - Population 25 to 54 years
+HC06_VC17,Percent - Both sexes; Population 16 years and over - Population 25 to 54 years
+HC07_VC17,Percent - Male; Population 16 years and over - Population 25 to 54 years
+HC08_VC17,Percent - Female; Population 16 years and over - Population 25 to 54 years
+HC02_VC18,Number - Both sexes; Population 16 years and over - Population 25 to 54 years - Employed civilian
+HC03_VC18,Number - Male; Population 16 years and over - Population 25 to 54 years - Employed civilian
+HC04_VC18,Number - Female; Population 16 years and over - Population 25 to 54 years - Employed civilian
+HC06_VC18,Percent - Both sexes; Population 16 years and over - Population 25 to 54 years - Employed civilian
+HC07_VC18,Percent - Male; Population 16 years and over - Population 25 to 54 years - Employed civilian
+HC08_VC18,Percent - Female; Population 16 years and over - Population 25 to 54 years - Employed civilian
+HC02_VC19,Number - Both sexes; Population 16 years and over - Population 25 to 54 years - Unemployed
+HC03_VC19,Number - Male; Population 16 years and over - Population 25 to 54 years - Unemployed
+HC04_VC19,Number - Female; Population 16 years and over - Population 25 to 54 years - Unemployed
+HC06_VC19,Percent - Both sexes; Population 16 years and over - Population 25 to 54 years - Unemployed
+HC07_VC19,Percent - Male; Population 16 years and over - Population 25 to 54 years - Unemployed
+HC08_VC19,Percent - Female; Population 16 years and over - Population 25 to 54 years - Unemployed
+HC02_VC20,Number - Both sexes; Population 16 years and over - Population 25 to 54 years - Not in labor force
+HC03_VC20,Number - Male; Population 16 years and over - Population 25 to 54 years - Not in labor force
+HC04_VC20,Number - Female; Population 16 years and over - Population 25 to 54 years - Not in labor force
+HC06_VC20,Percent - Both sexes; Population 16 years and over - Population 25 to 54 years - Not in labor force
+HC07_VC20,Percent - Male; Population 16 years and over - Population 25 to 54 years - Not in labor force
+HC08_VC20,Percent - Female; Population 16 years and over - Population 25 to 54 years - Not in labor force
+HC02_VC21,Number - Both sexes; Population 16 years and over - Population 55 to 59 years
+HC03_VC21,Number - Male; Population 16 years and over - Population 55 to 59 years
+HC04_VC21,Number - Female; Population 16 years and over - Population 55 to 59 years
+HC06_VC21,Percent - Both sexes; Population 16 years and over - Population 55 to 59 years
+HC07_VC21,Percent - Male; Population 16 years and over - Population 55 to 59 years
+HC08_VC21,Percent - Female; Population 16 years and over - Population 55 to 59 years
+HC02_VC22,Number - Both sexes; Population 16 years and over - Population 55 to 59 years - Employed civilian
+HC03_VC22,Number - Male; Population 16 years and over - Population 55 to 59 years - Employed civilian
+HC04_VC22,Number - Female; Population 16 years and over - Population 55 to 59 years - Employed civilian
+HC06_VC22,Percent - Both sexes; Population 16 years and over - Population 55 to 59 years - Employed civilian
+HC07_VC22,Percent - Male; Population 16 years and over - Population 55 to 59 years - Employed civilian
+HC08_VC22,Percent - Female; Population 16 years and over - Population 55 to 59 years - Employed civilian
+HC02_VC23,Number - Both sexes; Population 16 years and over - Population 55 to 59 years - Unemployed
+HC03_VC23,Number - Male; Population 16 years and over - Population 55 to 59 years - Unemployed
+HC04_VC23,Number - Female; Population 16 years and over - Population 55 to 59 years - Unemployed
+HC06_VC23,Percent - Both sexes; Population 16 years and over - Population 55 to 59 years - Unemployed
+HC07_VC23,Percent - Male; Population 16 years and over - Population 55 to 59 years - Unemployed
+HC08_VC23,Percent - Female; Population 16 years and over - Population 55 to 59 years - Unemployed
+HC02_VC24,Number - Both sexes; Population 16 years and over - Population 55 to 59 years - Not in labor force
+HC03_VC24,Number - Male; Population 16 years and over - Population 55 to 59 years - Not in labor force
+HC04_VC24,Number - Female; Population 16 years and over - Population 55 to 59 years - Not in labor force
+HC06_VC24,Percent - Both sexes; Population 16 years and over - Population 55 to 59 years - Not in labor force
+HC07_VC24,Percent - Male; Population 16 years and over - Population 55 to 59 years - Not in labor force
+HC08_VC24,Percent - Female; Population 16 years and over - Population 55 to 59 years - Not in labor force
+HC02_VC25,Number - Both sexes; Population 16 years and over - Population 60 to 64 years
+HC03_VC25,Number - Male; Population 16 years and over - Population 60 to 64 years
+HC04_VC25,Number - Female; Population 16 years and over - Population 60 to 64 years
+HC06_VC25,Percent - Both sexes; Population 16 years and over - Population 60 to 64 years
+HC07_VC25,Percent - Male; Population 16 years and over - Population 60 to 64 years
+HC08_VC25,Percent - Female; Population 16 years and over - Population 60 to 64 years
+HC02_VC26,Number - Both sexes; Population 16 years and over - Population 60 to 64 years - Employed civilian
+HC03_VC26,Number - Male; Population 16 years and over - Population 60 to 64 years - Employed civilian
+HC04_VC26,Number - Female; Population 16 years and over - Population 60 to 64 years - Employed civilian
+HC06_VC26,Percent - Both sexes; Population 16 years and over - Population 60 to 64 years - Employed civilian
+HC07_VC26,Percent - Male; Population 16 years and over - Population 60 to 64 years - Employed civilian
+HC08_VC26,Percent - Female; Population 16 years and over - Population 60 to 64 years - Employed civilian
+HC02_VC27,Number - Both sexes; Population 16 years and over - Population 60 to 64 years - Unemployed
+HC03_VC27,Number - Male; Population 16 years and over - Population 60 to 64 years - Unemployed
+HC04_VC27,Number - Female; Population 16 years and over - Population 60 to 64 years - Unemployed
+HC06_VC27,Percent - Both sexes; Population 16 years and over - Population 60 to 64 years - Unemployed
+HC07_VC27,Percent - Male; Population 16 years and over - Population 60 to 64 years - Unemployed
+HC08_VC27,Percent - Female; Population 16 years and over - Population 60 to 64 years - Unemployed
+HC02_VC28,Number - Both sexes; Population 16 years and over - Population 60 to 64 years - Not in labor force
+HC03_VC28,Number - Male; Population 16 years and over - Population 60 to 64 years - Not in labor force
+HC04_VC28,Number - Female; Population 16 years and over - Population 60 to 64 years - Not in labor force
+HC06_VC28,Percent - Both sexes; Population 16 years and over - Population 60 to 64 years - Not in labor force
+HC07_VC28,Percent - Male; Population 16 years and over - Population 60 to 64 years - Not in labor force
+HC08_VC28,Percent - Female; Population 16 years and over - Population 60 to 64 years - Not in labor force
+HC02_VC29,Number - Both sexes; Population 16 years and over - Population 65 to 69 years
+HC03_VC29,Number - Male; Population 16 years and over - Population 65 to 69 years
+HC04_VC29,Number - Female; Population 16 years and over - Population 65 to 69 years
+HC06_VC29,Percent - Both sexes; Population 16 years and over - Population 65 to 69 years
+HC07_VC29,Percent - Male; Population 16 years and over - Population 65 to 69 years
+HC08_VC29,Percent - Female; Population 16 years and over - Population 65 to 69 years
+HC02_VC30,Number - Both sexes; Population 16 years and over - Population 65 to 69 years - Employed civilian
+HC03_VC30,Number - Male; Population 16 years and over - Population 65 to 69 years - Employed civilian
+HC04_VC30,Number - Female; Population 16 years and over - Population 65 to 69 years - Employed civilian
+HC06_VC30,Percent - Both sexes; Population 16 years and over - Population 65 to 69 years - Employed civilian
+HC07_VC30,Percent - Male; Population 16 years and over - Population 65 to 69 years - Employed civilian
+HC08_VC30,Percent - Female; Population 16 years and over - Population 65 to 69 years - Employed civilian
+HC02_VC31,Number - Both sexes; Population 16 years and over - Population 65 to 69 years - Unemployed
+HC03_VC31,Number - Male; Population 16 years and over - Population 65 to 69 years - Unemployed
+HC04_VC31,Number - Female; Population 16 years and over - Population 65 to 69 years - Unemployed
+HC06_VC31,Percent - Both sexes; Population 16 years and over - Population 65 to 69 years - Unemployed
+HC07_VC31,Percent - Male; Population 16 years and over - Population 65 to 69 years - Unemployed
+HC08_VC31,Percent - Female; Population 16 years and over - Population 65 to 69 years - Unemployed
+HC02_VC32,Number - Both sexes; Population 16 years and over - Population 65 to 69 years - Not in labor force
+HC03_VC32,Number - Male; Population 16 years and over - Population 65 to 69 years - Not in labor force
+HC04_VC32,Number - Female; Population 16 years and over - Population 65 to 69 years - Not in labor force
+HC06_VC32,Percent - Both sexes; Population 16 years and over - Population 65 to 69 years - Not in labor force
+HC07_VC32,Percent - Male; Population 16 years and over - Population 65 to 69 years - Not in labor force
+HC08_VC32,Percent - Female; Population 16 years and over - Population 65 to 69 years - Not in labor force
+HC02_VC33,Number - Both sexes; Population 16 years and over - Population 70 years and over
+HC03_VC33,Number - Male; Population 16 years and over - Population 70 years and over
+HC04_VC33,Number - Female; Population 16 years and over - Population 70 years and over
+HC06_VC33,Percent - Both sexes; Population 16 years and over - Population 70 years and over
+HC07_VC33,Percent - Male; Population 16 years and over - Population 70 years and over
+HC08_VC33,Percent - Female; Population 16 years and over - Population 70 years and over
+HC02_VC34,Number - Both sexes; Population 16 years and over - Population 70 years and over - Employed civilian
+HC03_VC34,Number - Male; Population 16 years and over - Population 70 years and over - Employed civilian
+HC04_VC34,Number - Female; Population 16 years and over - Population 70 years and over - Employed civilian
+HC06_VC34,Percent - Both sexes; Population 16 years and over - Population 70 years and over - Employed civilian
+HC07_VC34,Percent - Male; Population 16 years and over - Population 70 years and over - Employed civilian
+HC08_VC34,Percent - Female; Population 16 years and over - Population 70 years and over - Employed civilian
+HC02_VC35,Number - Both sexes; Population 16 years and over - Population 70 years and over - Unemployed
+HC03_VC35,Number - Male; Population 16 years and over - Population 70 years and over - Unemployed
+HC04_VC35,Number - Female; Population 16 years and over - Population 70 years and over - Unemployed
+HC06_VC35,Percent - Both sexes; Population 16 years and over - Population 70 years and over - Unemployed
+HC07_VC35,Percent - Male; Population 16 years and over - Population 70 years and over - Unemployed
+HC08_VC35,Percent - Female; Population 16 years and over - Population 70 years and over - Unemployed
+HC02_VC36,Number - Both sexes; Population 16 years and over - Population 70 years and over - Not in labor force
+HC03_VC36,Number - Male; Population 16 years and over - Population 70 years and over - Not in labor force
+HC04_VC36,Number - Female; Population 16 years and over - Population 70 years and over - Not in labor force
+HC06_VC36,Percent - Both sexes; Population 16 years and over - Population 70 years and over - Not in labor force
+HC07_VC36,Percent - Male; Population 16 years and over - Population 70 years and over - Not in labor force
+HC08_VC36,Percent - Female; Population 16 years and over - Population 70 years and over - Not in labor force

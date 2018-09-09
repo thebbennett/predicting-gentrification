@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 14 13:13:45 2018
-
-@author: bbenn
-"""
-
 #########################################################################################
 
 ## Author: Brittany Bennett
@@ -28,6 +21,11 @@ from collections import Counter
 import matplotlib.pyplot as plt
 import seaborn as sns; sns.set(color_codes=True)
 import geopandas
+from sklearn import preprocessing
+from sklearn.linear_model import LinearRegression, ElasticNet, Lasso
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error
+
 
 #########################################################################################
 ## Set the working directory to the project path
@@ -421,26 +419,47 @@ working_women['Working women change'] = working_women['Working women 2011'] - wo
 working_women.drop(working_women.columns[[1,2]], axis=1, inplace=True)
 
 predictor_vars = pd.merge(predictor_vars, working_women, on='Census Tract ID',right_index=True, left_index=True)
-
+predictor_vars.to_csv("predictor_vars.csv")
 #########################################################################################
 
 ### Preidctive Modeling ###
 
 #########################################################################################
+x_df = predictor_vars[['Census Tract ID', 'Distance from CBD', 'Number of historical sites', 'Change in children', 'Change in households', 'Moved recently', 'Working women change']]
+x_df.columns.values[0] = "Census Tract"
+y = rent_increase[['Census Tract','Increase']]
+y['Census Tract'] = y['Census Tract'].convert_objects(convert_numeric=True)
+
+gent = pd.merge(x_df, y, on='Census Tract',right_index=True, left_index=True)
+
+X = gent[['Distance from CBD', 'Number of historical sites', 'Change in children', 'Change in households', 'Moved recently', 'Working women change']]
+y = gent['Increase']
+X_normalized = preprocessing.normalize(X)
+
+X_train, X_test, y_train, y_test = train_test_split(X_normalized ,y, test_size=0.2, random_state=0)
+
+model = LinearRegression()
+model.fit(X_train, y_train)
+model.score(X_test, y_test)
+
+y_pred = model.predict(X_test) 
+plt.plot(y_test, y_pred, '.')
+
+# plot a line, a perfit predict would all fall on this line
+x = np.linspace(0, 330, 100)
+y = x
+plt.plot(x, y)
+plt.show()
+
+
+# Compute and print R^2 and RMSE
+print("R^2: {}".format(model.score(X_test, y_test)))
+rmse = np.sqrt(mean_squared_error(y_test, y_pred))
+print("Root Mean Squared Error: {}".format(rmse))
 
 
 
 
 
-"""
-df = pd.concat([rent_increase, predictor_vars], axis=1)
-fig, axs = plt.subplots(nrows = 3, ncols=3)
-sns.regplot(x='Distance from CBD', y='Increase', data=df, ax=axs[0,0])
-sns.regplot(x='Number of historical sites', y='Increase', data=df, ax=axs[0,1])
-sns.regplot(x='Total children',y='Increase', data=df, ax=axs[0,2])
 
 
-Single households
-Moved recently 
-Working women 
-"""
